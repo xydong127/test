@@ -1,0 +1,23 @@
+{
+  "framework": "C3LRec",
+  "category": "Health_and_Personal_Care",
+  "revise": 0,
+  "run_name": "obs-sft_Health_and_Personal_Care_0_qwen17_20260712-114205",
+  "results": {
+    "k1": {
+      "hr": 0.1897590361445783,
+      "ndcg": 0.1897590361445783
+    },
+    "k5": {
+      "hr": 0.2680722891566265,
+      "ndcg": 0.23181530218699253
+    },
+    "k10": {
+      "hr": 0.28012048192771083,
+      "ndcg": 0.23580296438409695
+    }
+  },
+  "num_queries": 332,
+  "topk": 10,
+  "elapsed_seconds": 0.03597378730773926
+}

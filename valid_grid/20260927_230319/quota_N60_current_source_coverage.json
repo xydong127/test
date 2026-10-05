@@ -1,0 +1,30 @@
+[
+  {
+    "source": "beam",
+    "deploy_candidate_fraction": 0.028542914171656688,
+    "targets_reached": 68,
+    "targets_retained": 68,
+    "retention_given_reach": 1.0
+  },
+  {
+    "source": "transition",
+    "deploy_candidate_fraction": 0.1154690618762475,
+    "targets_reached": 7,
+    "targets_retained": 7,
+    "retention_given_reach": 1.0
+  },
+  {
+    "source": "retrieval",
+    "deploy_candidate_fraction": 0.6413672654690619,
+    "targets_reached": 21,
+    "targets_retained": 21,
+    "retention_given_reach": 1.0
+  },
+  {
+    "source": "fill",
+    "deploy_candidate_fraction": 0.26616766467065867,
+    "targets_reached": 17,
+    "targets_retained": 6,
+    "retention_given_reach": 0.35294117647058826
+  }
+]

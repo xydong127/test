@@ -1,0 +1,17 @@
+{
+  "framework": "C3LRec",
+  "category": "Health_and_Personal_Care",
+  "revise": 0,
+  "run_name": "obs-sft_Health_and_Personal_Care_0_qwen17_20260712-114205",
+  "checkpoint": "/home/xydong/llm/C3LRec/checkpoints/Health_and_Personal_Care/obs-sft_Health_and_Personal_Care_0_qwen17_20260712-114205/best",
+  "topk": 10,
+  "num_predictions": 332,
+  "reachability": {
+    "beam": 0.21686746987951808,
+    "retrieval": 0.29819277108433734,
+    "reservoir": 0.3433734939759036,
+    "deploy": 0.2921686746987952,
+    "oracle_injected": 0.0
+  },
+  "elapsed_seconds": 419.686158657074
+}

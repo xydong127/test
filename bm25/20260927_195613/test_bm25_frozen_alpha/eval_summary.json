@@ -1,0 +1,17 @@
+{
+  "framework": "SLATE-Rec",
+  "category": "Health_and_Personal_Care",
+  "revise": 0,
+  "run_name": "health_sft_only",
+  "checkpoint": "/home/xydong/llm/rebuttal/checkpoints/Health_and_Personal_Care/health_sft_only/best",
+  "topk": 10,
+  "num_predictions": 332,
+  "reachability": {
+    "beam": 0.0,
+    "retrieval": 0.1144578313253012,
+    "reservoir": 0.1144578313253012,
+    "deploy": 0.06927710843373494,
+    "oracle_injected": 0.0
+  },
+  "elapsed_seconds": 180.22247338294983
+}

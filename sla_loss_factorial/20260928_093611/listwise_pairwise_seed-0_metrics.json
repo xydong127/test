@@ -1,0 +1,23 @@
+{
+  "framework": "C3LRec",
+  "category": "Health_and_Personal_Care",
+  "revise": 0,
+  "run_name": "review_sla_factorial_Health_and_Personal_Care_listwise_pairwise_seed-0_20260928_093611",
+  "results": {
+    "k1": {
+      "hr": 0.20783132530120482,
+      "ndcg": 0.20783132530120482
+    },
+    "k5": {
+      "hr": 0.2710843373493976,
+      "ndcg": 0.24070156663181577
+    },
+    "k10": {
+      "hr": 0.27710843373493976,
+      "ndcg": 0.2427095987603298
+    }
+  },
+  "num_queries": 332,
+  "topk": 10,
+  "elapsed_seconds": 0.049698829650878906
+}
